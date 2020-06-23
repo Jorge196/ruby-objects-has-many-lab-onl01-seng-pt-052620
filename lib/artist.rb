@@ -10,6 +10,10 @@ class Artist
 
   def artists=(name)
     @artist = artist
+  end
+
+  def artists
+    @artist
   end 
 
   def songs
