@@ -8,13 +8,6 @@ class Artist
     @songs = []
   end
 
-  def artists=(name)
-    @artists = artists
-  end
-
-  def artists
-    @artists
-  end
 
   def songs
     @songs
